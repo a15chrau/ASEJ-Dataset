@@ -7,6 +7,6 @@ Constructed in 2019 by
 
 Christian Augustsson
 
-Pontus E. Jakobson
-
 Erik Scherqvist
+
+Pontus E. Jakobson
